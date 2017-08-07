@@ -3,10 +3,11 @@ Single Screen App [UDACITY ANDROID COURSE]
 
 ### SCREENSHOTS
 
-![5.png](https://bitbucket.org/repo/6xK9go/images/3058379691-5.png)
+
 ![2.png](https://bitbucket.org/repo/6xK9go/images/2126141926-2.png) ![3.png](https://bitbucket.org/repo/6xK9go/images/592212594-3.png) ![4.png](https://bitbucket.org/repo/6xK9go/images/90810010-4.png)
 
-![6.png](https://bitbucket.org/repo/6xK9go/images/2278528198-6.png)
+[![N|Solid](http://i.imgur.com/QWOOm5Km.png)](http://i.imgur.com/QWOOm5Km.png) [![N|Solid](http://i.imgur.com/moNeFyam.png)](http://i.imgur.com/moNeFyam.png)
+
 
 ----
 
